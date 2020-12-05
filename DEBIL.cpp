@@ -107,7 +107,7 @@ int main()
 
     Ring r;
     int pos;
-    cout << "Teachers per university" << endl;
+    cout << "NE RABOTYAGI" << endl;
     f1.sort_name();
     f1.open("r");
     Employee tmp;
